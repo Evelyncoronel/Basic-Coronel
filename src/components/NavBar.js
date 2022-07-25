@@ -1,3 +1,5 @@
+import App from "./NavBar.js";
+
 function App() {
     return (         
         <>
@@ -11,7 +13,7 @@ function App() {
                     </ul>
                 </div>
             </nav>
-                <h2> Las ofertas de la semana </h2>
+                <h2> SALE OFF DAYS</h2>
         </>
             );
 }
